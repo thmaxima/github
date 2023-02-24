@@ -2,3 +2,5 @@
 scoop
 global
 proxy
+commit
+changes
